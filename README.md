@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=streetchem-username&color=23406c&style=plastic&label=stalker&abreviated=true">
+  <img src="https://komarev.com/ghpvc/?username=te-quila-username&color=23406c&style=plastic&label=stalker&abreviated=true">
 </p>
 <p align="center">
    <a href="https://tehquila.carrd.co/">carrd</a>  𖹭  <a href="https://tehquila.atabook.org/">新book</a>  
